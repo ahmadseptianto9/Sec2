@@ -18,6 +18,8 @@ p {
 }
 
 img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   height: 120px;
-  text-align: center;
 }
