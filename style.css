@@ -16,3 +16,8 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
+
+img {
+  height: 120px;
+  text-align: center;
+}
